@@ -3,4 +3,5 @@ git init
 How would you find out what files are currently staged?
 git status
 how would you add a file to the the staging area?
+git commit -m ""
 How owould you commit you changes with the message adding git-test questions?
